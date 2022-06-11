@@ -1,0 +1,38 @@
+* {
+    font-size: 60px;
+}
+
+.parent {
+    background-color: rgb(109, 109, 252);
+
+
+
+}
+
+.child1 {
+    background-color: rgb(228, 94, 94);
+
+
+}
+
+.child2 {
+    background-color: rgb(121, 230, 89);
+
+
+}
+
+.child3 {
+    background-color: rgb(206, 112, 198);
+
+}
+
+.sticky1 {
+    background-color: slategray;
+
+}
+
+
+.sticky2 {
+    background-color: slategray;
+
+}

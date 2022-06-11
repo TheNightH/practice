@@ -1,0 +1,37 @@
+td {
+    border: 5px solid rebeccapurple;
+    padding: 30px;
+    color: brown;
+    font-size: 26px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.head-row {
+    border: 5px solid rgb(0, 100, 92);
+    background-color: antiquewhite;
+}
+
+.foot-row {
+    background-color: antiquewhite;
+}
+
+tr {
+    border: 10px dotted rgb(0, 100, 92);
+    background-color: rgb(175, 250, 255);
+}
+
+table {
+    width: 60%;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: brown;
+    font-weight: 900;
+    font-style: italic;
+}

@@ -1,0 +1,42 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+html {
+    background-color: rgb(255, 255, 146);
+}
+
+.main-header {
+    align-self: center;
+    text-align: center;
+    margin: 10% 20% 10% 20%;
+    background-color: aquamarine;
+    border: 5px solid blue;
+    font-weight: lighter;
+    padding: 1em 5em;
+    border-radius: 5%;
+    width: 100px;
+    height: 100px;
+
+}
+
+.box {
+    display: inline-block;
+    text-align: center;
+    margin: 10% 30% 10% 30%;
+    background-color: bisque;
+    padding: 6em 6em;
+    border: 5px solid blue;
+    position:
+
+}
+
+.box1 {
+    margin: 2em 2em;
+    background-color: green;
+}
+
+.box2 {
+    margin: 2em 2em;
+    background-color: red;
+}
